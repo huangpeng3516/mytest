@@ -81,7 +81,6 @@ public class JMSTest {
 		} catch (JMSException e) {
 			e.printStackTrace();
 		}
-
 //		while (true) {
 //
 //		}
